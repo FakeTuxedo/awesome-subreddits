@@ -175,13 +175,12 @@
 
 ## Entertainment
 
+* [EpochFail](https://www.reddit.com/r/epochfail/) - Subset of software gore specifically for Epoch Fails.
 * [itsaunixsystem](https://www.reddit.com/r/itsaunixsystem) - For every over the top, satirical or incorrect usage of technology found in Movies, TV Shows etc.
 * [linuxmemes](https://www.reddit.com/r/linuxmemes) - Self descriptive subreddit name.
 * [ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) - Not everybody understands the humor of programmers.
 * [programmerreactions](https://www.reddit.com/r/programmerreactions) - Expressing the life of programmers through reaction images.
 * [softwaregore](https://www.reddit.com/r/softwaregore) - A collection of things that users shouldn't see.
-
-
 
 ## Front End Development
 
